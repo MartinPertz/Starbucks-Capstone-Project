@@ -51,6 +51,8 @@ README.md
 
 LICENSE
 
+Hint: Please ignore the object '.ipynb_checkpoints'
+
 
 ### Result
 The results are contained in the respective conclusions for the individual tasks. A brief summary is included at the end of Starbucks_Capstone_notebook.ipynb in 'Conclusion for computed accuracy for 'BOGO' and 'discount' "gender-age-income-specific" data'.
